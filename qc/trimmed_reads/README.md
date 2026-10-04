@@ -1,2 +1,11 @@
 # Quality check of trimmed reads
-The quality of both paired reads after trimming by fastp was checked using fastqc and report was made by multiqc. 
+This directory contains quality control reports for the paired-end *E. coli* REL606 reads (SRR2584863) after adapter removal and low-quality base trimming.
+
+Reads were processed using `fastp`
+
+The qualisty was checked using FastQC
+
+This depository includes:
+* fastqc.html reports for both reads
+* multiqc_report.html – Aggregated MultiQC report for both trimmed paired reads.
+* fastp.html / fastp.json – Detailed execution log and filtering metrics from fastp.
