@@ -11,7 +11,7 @@ This depository includes:
 * fastp.html / fastp.json – Detailed execution log and filtering metrics from fastp.
 
 Opening interactive files:
-* Reads_1_trimmed FastQC report: https://htmlpreview.github.io/?https://htmlpreview.github.io/?https://github.com/mMartin95/ecoli_SRX1317390_variant_validation/blob/main/qc/trimmed_reads/SRR2584863_1_trimmed_fastqc.html
-* Reads_2_trimmed FastQC report: https://htmlpreview.github.io/?https://htmlpreview.github.io/?https://github.com/mMartin95/ecoli_SRX1317390_variant_validation/blob/main/qc/trimmed_reads/SRR2584863_2_trimmed_fastqc.html
-* MultiQC report for obth reads: https://htmlpreview.github.io/?https://htmlpreview.github.io/?https://github.com/mMartin95/ecoli_SRX1317390_variant_validation/blob/main/qc/trimmed_reads/trimmed_data_multiqc_report.html
-* FastP report: https://htmlpreview.github.io/?https://htmlpreview.github.io/?https://github.com/mMartin95/ecoli_SRX1317390_variant_validation/blob/main/qc/trimmed_reads/SRR2584863_fastp.html
+* Reads_1_trimmed FastQC report: https://htmlpreview.github.io/?https://github.com/mMartin95/ecoli_SRX1317390_variant_validation/blob/main/qc/trimmed_reads/SRR2584863_1_trimmed_fastqc.html
+* Reads_2_trimmed FastQC report: https://htmlpreview.github.io/?https://github.com/mMartin95/ecoli_SRX1317390_variant_validation/blob/main/qc/trimmed_reads/SRR2584863_2_trimmed_fastqc.html
+* MultiQC report for obth reads: https://htmlpreview.github.io/?https://github.com/mMartin95/ecoli_SRX1317390_variant_validation/blob/main/qc/trimmed_reads/trimmed_data_multiqc_report.html
+* FastP report: https://htmlpreview.github.io/?https://github.com/mMartin95/ecoli_SRX1317390_variant_validation/blob/main/qc/trimmed_reads/SRR2584863_fastp.html
