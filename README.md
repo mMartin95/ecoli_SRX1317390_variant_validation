@@ -28,6 +28,8 @@ The samples were:
 
 According to the annotated file, the E. coli sample contained (compared to reference E. coli REL606) 30 mutations. Based on the quality (QUAL > 30), 27 mutations (except those on the positions 3742142, 3895000 and  4017761) remained. Those were filtered using bcftools filter (QUAL > 30, DP >= 10, MQ > 30, AF >= 0.85 calculated from all DP4) with 22 remained and 8 artifacts.
 
+The file with results is saved in data/fixed_variants_clean.vcf
+
 
 ### Final validated Variant Set:
 A total 22 fixed mutations remained:
