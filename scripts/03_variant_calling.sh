@@ -12,7 +12,7 @@ THREADS=4
 
 # Relative pathways
 REF_DIR="data/reference"
-REF_FASTA="${REF_DIR}/NC_012967.1.fasta"
+REF_FASTA="${REF_DIR}/NC_012967.1.fna"
 ALN_DIR="data/aligned_bam"
 VAR_DIR="data/variants"
 

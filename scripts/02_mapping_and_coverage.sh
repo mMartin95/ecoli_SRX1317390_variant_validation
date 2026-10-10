@@ -12,7 +12,7 @@ THREADS=4
 
 # Relative pathway
 REF_DIR="data/reference"
-REF_FASTA="${REF_DIR}/NC_012967.1.fasta"
+REF_FASTA="${REF_DIR}/NC_012967.1.fna"
 TRIM_DIR="data/trimmed_fastq"
 ALN_DIR="data/aligned_bam"
 QC_DIR="qc"
